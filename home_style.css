@@ -1,14 +1,19 @@
      body {
             font-family: 'Times New Roman', Times, serif, sans-serif;
             font-size:large;
-            margin: 0;
+            margin: 1em;
             padding: 12px;
             background-color: #f0f0f0;
-            background-image:url(C://Users/kumar/downloads/saif_logo.png);
-            background-position: 100%;
-            background-position-y: 55%;
+            background-image: url("C://Users/kumar/downloads/SAIF_international_school/SAIF-international-school/images/saif_logo.png");
+            background-position-x: 100%;
+            background-position-y: 65%;
             background-repeat: no-repeat;
             background-attachment: scroll;
+    button {
+        background-color:brown;
+        border:none;
+    }
+
         header {
             background-color: brown;
             color: white;
